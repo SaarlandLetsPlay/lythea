@@ -23,7 +23,7 @@ Jedes Modul lässt sich pro Server ein- und ausschalten.
 
 - **Community:** Level, Economy, Achievements, Starboard, Geburtstage, Boost-Belohnungen, Giveaways, Umfragen, Counting
 - **Moderation:** Auto-Moderation, Keyword-Filter, Regeln, Traps (Bann-Falle), Monitoring
-- **Rollen & Begrüßung:** Selfrole, Willkommensnachrichten, Verifizierung
+- **Rollen & Begrüßung:** Selfrole, Willkommensnachrichten
 - **Kanäle & Sprachchat:** Voice-Räume, Voice-XP, Statistik-Kanäle
 - **Inhalte & Medien:** Live-Benachrichtigungen (Streams), VOD, Radio, Newsletter, Custom Commands
 - **Spiele & Extras:** Games, Minecraft-Anbindung, Verkauf (Sales)
