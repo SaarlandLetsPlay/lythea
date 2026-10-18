@@ -1,7 +1,7 @@
-# Lythea - Die ultimative Zentrale für professionelle Discord-Communities 🚀
+# Lythea - Die Zentrale für Discord-Communities 🚀
 
-> **"Dein Discord-Server, nur besser."**  
-> Lythea ist kein gewöhnlicher Discord-Bot. Es ist eine High-End-Zentrale, die modernes Design mit mächtigen Funktionen kombiniert, um deinen Server auf das nächste Level zu heben.
+> **„Dein Discord-Server, nur besser.“**
+> Lythea ist ein Discord-Bot mit Web-Dashboard. Module lassen sich einzeln aktivieren und im Browser konfigurieren, ohne Befehle tippen zu müssen.
 
 ---
 
@@ -9,17 +9,37 @@
 
 | Feature | Beschreibung |
 | :--- | :--- |
-| **📊 Echtzeit-Analytics** | Behalte das Wachstum und die Aktivität deiner Community im Blick – visualisiert in einem modernen Dashboard. |
-| **📻 Radio-System** | Bring Stimmung auf den Server mit unserem integrierten High-Quality Radio-Modul. |
-| **📧 Newsletter Center** | Erreiche deine Member direkt und professionell mit unserem High-End Newsletter-System. |
-| **🎫 Ticket-System** | Professioneller Support für deine Community mit Transkripten und Team-Zuweisung. |
-| **🎭 Automatisierung** | Von Level-Systemen bis hin zu Auto-Moderation – alles intuitiv konfigurierbar. |
+| **📊 Analytics & Statistiken** | Wachstum und Aktivität der Community im Dashboard, dazu Statistik-Kanäle. |
+| **📻 Radio** | Integriertes Radio-Modul für Stimmung auf dem Server. |
+| **📧 Newsletter** | Newsletter an Mitglieder verschicken, direkt aus dem Dashboard. |
+| **🎫 Tickets** | Support-Tickets mit Transkripten und Team-Zuweisung. |
+| **🎭 Automatisierung** | Level, Auto-Moderation, Rollenvergabe, Willkommensnachrichten und mehr. |
+
+---
+
+## 🧩 Module
+
+Jedes Modul lässt sich pro Server ein- und ausschalten.
+
+- **Community:** Level, Economy, Achievements, Starboard, Geburtstage, Boost-Belohnungen, Giveaways, Umfragen, Counting
+- **Moderation:** Auto-Moderation, Keyword-Filter, Regeln, Traps (Bann-Falle), Monitoring
+- **Rollen & Begrüßung:** Selfrole, Willkommensnachrichten, Verifizierung
+- **Kanäle & Sprachchat:** Voice-Räume, Voice-XP, Statistik-Kanäle
+- **Inhalte & Medien:** Live-Benachrichtigungen (Streams), VOD, Radio, Newsletter, Custom Commands
+- **Spiele & Extras:** Games, Minecraft-Anbindung, Verkauf (Sales)
+- **Support:** Ticket-System
+
+---
+
+## 🌍 Sprachen
+
+Das Dashboard und der Bot sind in sechs Sprachen verfügbar:
+
+Deutsch · English · Español · Français · Italiano · Türkçe
 
 ---
 
 ## 🛠️ Tech Stack
-
-Lythea basiert auf modernsten Technologien, um maximale Stabilität und Performance zu gewährleisten:
 
 - **Frontend:** [React](https://reactjs.org/) & [Vite](https://vitejs.dev/) mit [Tailwind CSS](https://tailwindcss.com/)
 - **Backend:** [Node.js](https://nodejs.org/) & [Express](https://expressjs.com/)
